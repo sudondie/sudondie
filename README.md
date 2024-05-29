@@ -1,5 +1,5 @@
 # 💫 About Me:
-24 y.o Frontend developer from Russia
+25 y.o Frontend developer from Russia
 
 
 ## 🌐 Socials:
